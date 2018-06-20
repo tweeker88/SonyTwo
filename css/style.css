@@ -31,6 +31,7 @@ h3{color:#cacaca;opacity:0.9;font-size:27px;}
 .btntwo:after{right:5px;border-left:1px solid rgba(255, 255, 255, 0.5);}
 .spoiler_links{font-size:18px;line-height:2;width:100%;background-color:#fbfbfb;display:block;text-align:center;padding:5px;box-shadow:0 2px 2px rgba(0, 0, 0, .1);font-weight:600;color:black;}
 .spoiler_links:hover{text-decoration:none;}
+.li_de{border-bottom: 1px solid #d5d7da;margin-bottom: 5px;padding-bottom: 5px;}
 .spoiler_body{background-color:#fbfbfb;box-shadow:0 2px 2px rgba(0, 0, 0, .1);padding:15px;}
 @media (min-width:1200px){.container{width:1480px;}
 }
