@@ -70,3 +70,5 @@ h3{color:#cacaca;opacity:0.9;font-size:27px;}
 .ri{float: right}
 .soc_a{padding: 0!important;margin: 0!important;display: inline !important;}
 .soc_a:hover{background-color: black !important;color:#4ed4fa !important;}
+.spoiler_body p{padding-bottom: 15px}
+.f_img{width: 50%;display: block;margin: 0 auto;margin-bottom: 15px}
